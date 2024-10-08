@@ -7,4 +7,5 @@
 #1995chen/dnf:centos5-2.1.4.fix1
 #asdlokj1qpi23/subconverter:latest
 #tindy2013/subconverter
-sickcodes/docker-osx:latest
+#sickcodes/docker-osx:latest
+archlinux:base-devel
