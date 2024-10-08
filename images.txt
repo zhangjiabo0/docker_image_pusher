@@ -4,6 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-1995chen/dnf:centos5-2.1.4.fix1
-asdlokj1qpi23/subconverter:latest
-tindy2013/subconverter
+#1995chen/dnf:centos5-2.1.4.fix1
+#asdlokj1qpi23/subconverter:latest
+#tindy2013/subconverter
+sickcodes/docker-osx:latest
