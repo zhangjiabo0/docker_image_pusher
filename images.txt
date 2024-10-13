@@ -8,5 +8,6 @@
 #asdlokj1qpi23/subconverter:latest
 #tindy2013/subconverter
 #sickcodes/docker-osx
-dickhub/docker-osx
+#dickhub/docker-osx
 #archlinux:base-devel
+alfg/nginx-rtmp
