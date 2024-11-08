@@ -11,4 +11,5 @@
 #dickhub/docker-osx
 #archlinux:base-devel
 #alfg/nginx-rtmp
-alfg/nginx-rtmp:cuda
+#alfg/nginx-rtmp:cuda
+jrottenberg/ffmpeg:vaapi
