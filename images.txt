@@ -13,4 +13,5 @@
 #alfg/nginx-rtmp
 #alfg/nginx-rtmp:cuda
 #jrottenberg/ffmpeg:vaapi
-laravelsail/php80-composer:latest
+#laravelsail/php80-composer:latest
+laravelsail/php83-composer:latest
