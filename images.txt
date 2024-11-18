@@ -12,4 +12,5 @@
 #archlinux:base-devel
 #alfg/nginx-rtmp
 #alfg/nginx-rtmp:cuda
-jrottenberg/ffmpeg:vaapi
+#jrottenberg/ffmpeg:vaapi
+laravelsail/php80-composer:latest
