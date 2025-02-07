@@ -16,4 +16,5 @@
 #laravelsail/php80-composer:latest
 #laravelsail/php83-composer:latest
 #mongo:4.4
-1995chen/centos:6.9.2-DNF-Base
+#1995chen/centos:6.9.2-DNF-Base
+1995chen/dnf:centos6-5b7a211
