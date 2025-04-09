@@ -18,4 +18,6 @@
 #mongo:4.4
 #1995chen/centos:6.9.2-DNF-Base
 #1995chen/dnf:centos6-5b7a211
-zhangjiabo1/dnf:centos6-75d1def
+#zhangjiabo1/dnf:centos6-75d1def
+matrixdotorg/synapse
+vectorim/element-web
