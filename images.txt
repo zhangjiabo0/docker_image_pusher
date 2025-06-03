@@ -21,4 +21,5 @@
 #zhangjiabo1/dnf:centos6-75d1def
 #matrixdotorg/synapse
 #vectorim/element-web
-zhangjiabo1/myclip
+#zhangjiabo1/myclip
+alfg/nginx-rtmp:cuda
