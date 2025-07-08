@@ -22,4 +22,5 @@
 #matrixdotorg/synapse
 #vectorim/element-web
 #zhangjiabo1/myclip
-alfg/nginx-rtmp:cuda
+#alfg/nginx-rtmp:cuda
+mongo:4.0.9
