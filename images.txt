@@ -23,4 +23,5 @@
 #vectorim/element-web
 #zhangjiabo1/myclip
 #alfg/nginx-rtmp:cuda
-mongo:4.0.9
+#mongo:4.0.9
+redis:5.0.2
