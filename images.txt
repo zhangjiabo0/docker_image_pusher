@@ -24,4 +24,5 @@
 #zhangjiabo1/myclip
 #alfg/nginx-rtmp:cuda
 #mongo:4.0.9
-redis:5.0.2
+#redis:5.0.2
+ghcr.io/lunatechlab/moontv:latest
