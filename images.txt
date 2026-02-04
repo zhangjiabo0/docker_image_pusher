@@ -26,4 +26,5 @@
 #mongo:4.0.9
 #redis:5.0.2
 #ghcr.io/zhangjiabo0/njagfq:latest
-kuekhaoyang/kvideo:latest
+#kuekhaoyang/kvideo:latest
+ghcr.io/lunatechlab/moontv:latest
